@@ -1,0 +1,18 @@
+Service Models:
+---------------
+
+ * Infrastructure as a Service(Iaas)   => AWS 
+ * Platform as a Service(PaaS)  => AWS, GCP, Heroku 
+ * Software as a Service(Saas) => Gmail, Freshdesk, Salesforce CRM
+
+ Investment Profile:
+ -------------------
+
+    Iaas => Best Value for Money
+
+    RoI => Return on Investment
+
+
+
+
+
